@@ -1,0 +1,168 @@
+repo_name: zzhilin/complete-javascript-course
+report_id: 11aece0d9876266d88e3c0046affa639
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-17T21:02:13+00:00'
+requested_by: jonasschmedtmann
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course
+  detection_source: Repo Metadata
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course/blob/master/18-forkify/final/package.json
+  detection_source: 18-forkify/final/package.json
+  last_updated_by: Jonas Schmedtmann
+  last_updated_on: 2020-10-19 11:27:38.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course
+  detection_source: Repo Metadata
+- name: Parcel
+  description: "\U0001F4E6\U0001F680  A fast, zero configuration web application bundler"
+  website_url: https://parceljs.org/
+  version: 1.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course/blob/master/17-Modern-JS-Modules-Tooling/final/package-lock.json
+  detection_source: 17-Modern-JS-Modules-Tooling/final/package.json
+  last_updated_by: Jonas Schmedtmann
+  last_updated_on: 2020-10-19 11:27:38.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course/blob/master/18-forkify/final/package.json
+  detection_source: 18-forkify/final/package.json
+  last_updated_by: Jonas Schmedtmann
+  last_updated_on: 2020-10-19 11:27:38.000000000 Z
+- name: Heroku
+  description: Build, deliver, monitor and scale web apps and APIs with a trail blazing
+    developer experience.
+  website_url: https://www.heroku.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course/blob/master/18-forkify/final/src/js/config.js
+  detection_source: 18-forkify/final/src/js/config.js
+  last_updated_by: Jonas Schmedtmann
+  last_updated_on: 2020-10-19 11:27:38.000000000 Z
+- name: Leaflet
+  description: JavaScript library for mobile-friendly interactive maps
+  website_url: http://leafletjs.com/
+  version: 1.6.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/2392/leaflet_upic.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course/blob/master/17-Modern-JS-Modules-Tooling/final/package-lock.json
+  detection_source: 17-Modern-JS-Modules-Tooling/final/package.json
+  last_updated_by: Jonas Schmedtmann
+  last_updated_on: 2020-10-19 11:27:38.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course/blob/master/17-Modern-JS-Modules-Tooling/final/package-lock.json
+  detection_source: 17-Modern-JS-Modules-Tooling/final/package.json
+  last_updated_by: Jonas Schmedtmann
+  last_updated_on: 2020-10-19 11:27:38.000000000 Z
+- name: lodash-es
+  description: Lodash exported as ES modules
+  package_url: https://www.npmjs.com/lodash-es
+  version: 4.17.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16587/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course/blob/master/17-Modern-JS-Modules-Tooling/final/package-lock.json
+  detection_source: 17-Modern-JS-Modules-Tooling/final/package.json
+  last_updated_by: Jonas Schmedtmann
+  last_updated_on: 2020-10-19 11:27:38.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in lodash
+    cve_id: CVE-2020-8203
+    cve_url: https://github.com/advisories/GHSA-p6mc-m468-83gw
+    detected_date: Mar 12
+    severity: high
+    first_patched: 4.17.20
+  - name: Command Injection in lodash
+    cve_id: CVE-2021-23337
+    cve_url: https://github.com/advisories/GHSA-35jh-r3h4-6jhm
+    detected_date: Mar 12
+    severity: high
+    first_patched: 4.17.21
+  - name: Regular Expression Denial of Service (ReDoS) in lodash
+    cve_id: CVE-2020-28500
+    cve_url: https://github.com/advisories/GHSA-29mw-wpgm-hmr9
+    detected_date: Mar 12
+    severity: moderate
+    first_patched: 4.17.21
+- name: regenerator-runtime
+  description: Runtime for Regenerator-compiled generator and async functions
+  package_url: https://www.npmjs.com/regenerator-runtime
+  version: 0.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16148/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/zzhilin/complete-javascript-course/blob/master/17-Modern-JS-Modules-Tooling/final/package-lock.json
+  detection_source: 17-Modern-JS-Modules-Tooling/final/package.json
+  last_updated_by: Jonas Schmedtmann
+  last_updated_on: 2020-10-19 11:27:38.000000000 Z
